@@ -17,6 +17,7 @@ nav {
   height: 90px;
   background-color: #007bff;
 }
+
 nav ul {
   display: flex;
   justify-content: center;
@@ -51,7 +52,7 @@ main hr {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  margin: 50px 0;
+  margin: 120px 0;
 }
 .firstsection > div {
   width: 30%;
@@ -112,6 +113,7 @@ main hr {
   width: 90%;
   margin-top: 50px;
   border-radius: 50%;
+  border: 3px solid #007bff;
 }
 .purple {
   color: #007bff;
